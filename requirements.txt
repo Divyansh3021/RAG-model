@@ -3,3 +3,4 @@ chromadb
 pypdf
 sentence_transformers
 InstructorEmbedding
+google-generativeai
